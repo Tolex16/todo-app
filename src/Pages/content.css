@@ -1,0 +1,17 @@
+.todo {
+    width: 600px;
+    border:3px solid gold ;
+    border-radius: 10px;
+    margin: 50px 20px;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    padding: 20px;
+}
+nav :link{
+    color: chocolate;
+    text-decoration: none;
+ }
+ nav link:hover{
+    color:chocolate;
+}

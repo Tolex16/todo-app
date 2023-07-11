@@ -1,0 +1,51 @@
+.App {
+    text-align: center;
+    border: 2px dotted bisque ;
+    border-radius: 10px;
+    margin: 50px auto;
+    padding-bottom: 40px;
+    color: #ffffff;
+    width: 10cm;
+  }
+  h1{
+    color: #ffffff;
+    font-weight: normal;
+    position: relative;
+    font-size: 70px;
+  }
+  p, h2{
+    color: beige;
+  }
+  body{
+    background: linear-gradient(to right, goldenrod, darkgoldenrod);
+  }
+
+ 
+  button {
+    background: linear-gradient(to right, goldenrod, darkgoldenrod);
+    direction: flex;
+    justify-content: center;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 20px;
+    width: 100px;
+    padding: 10px;
+  }
+  
+   button:hover{
+    background: rgb(206, 89, 47);
+}
+
+  button:active{
+    transform: translateY(0.2cm);
+}
+  form{
+    text-align: center;
+  }
+  img{
+    width: 70px;
+  }
+.todoimg{
+  width: 30px;
+  margin-top: 10px;
+}
